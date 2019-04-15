@@ -5,10 +5,9 @@
 <html>
 <head>
     <title>用户列表页</title>
+    <jsp:include page="../base/base.jsp"></jsp:include>
 </head>
 <body>
-    <div id="userList">
-        <h2>userList</h2>
-    </div>
+    <h2>userList</h2>
 </body>
 </html>
