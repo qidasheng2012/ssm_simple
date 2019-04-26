@@ -30,12 +30,12 @@ public class UserController {
     }
 
     /**
-     * 查询所有用户信息
+     * 分页查询所有用户信息
      * @return
      */
     @RequestMapping("/listUser")
     @ResponseBody
-    public List<User> listUser() {
-        return userService.listUser();
+    public List<User> listUser(User user) {
+        return userService.listUser(user);
     }
 }
