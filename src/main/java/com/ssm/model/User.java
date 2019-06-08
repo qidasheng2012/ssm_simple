@@ -1,6 +1,6 @@
 package com.ssm.model;
 
-import com.ssm.common.page.PageBean;
+import com.ssm.common.bean.PageBean;
 import lombok.Data;
 
 import java.io.Serializable;
