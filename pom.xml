@@ -33,7 +33,7 @@
     <jsp-api.version>2.0</jsp-api.version>
     <lombok.version>1.16.20</lombok.version>
     <commons-lang3.version>3.7</commons-lang3.version>
-    <commons-collections.version>3.2.1</commons-collections.version>
+    <commons-collections.version>3.2.2</commons-collections.version>
     <commons-io.version>2.4</commons-io.version>
     <commons-net.version>3.3</commons-net.version>
     <commons-logging.version>1.2</commons-logging.version>
